@@ -1,0 +1,24 @@
+{
+  "id": "8e5725a0-8b4b-499b-b58e-0068c070df60",
+  "name": "Basic Financial Ext",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 57600,
+    "to": 57699
+  },
+  "runtime": "2.2",
+  "showMyCode": true
+}
