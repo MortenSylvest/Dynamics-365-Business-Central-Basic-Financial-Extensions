@@ -1,3 +1,4 @@
+
 pageextension 57648 "Sales&Relationship Mgr Act BF" extends "Sales & Relationship Mgr. Act."
 {
     layout
@@ -11,6 +12,7 @@ pageextension 57648 "Sales&Relationship Mgr Act BF" extends "Sales & Relationshi
             ApplicationArea = Basic;
         }
     }
+    /* NewContact Action has been removed in D365BC Version 14.1 
     actions
     {
         modify(NewContact)
@@ -18,4 +20,5 @@ pageextension 57648 "Sales&Relationship Mgr Act BF" extends "Sales & Relationshi
             ApplicationArea = Basic;
         }
     }
+    */
 }
